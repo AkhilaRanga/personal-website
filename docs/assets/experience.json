@@ -1,0 +1,27 @@
+[
+    {
+        "jobTitle":"Research Assistant",
+        "jobPlace":"UVA Biocomplexity Institute",
+        "jobDescription":[
+            "Working on Mobility Data to understand how people's mobility has been impacted by COVID-19 pandemic. Computed Descriptive Statistics of US mobility data gathered from 16 million users.",
+            "Analyzing user mobility in Virginia state with a temporal and spatial perspective to gain insights.",
+            "Built a People - Point of Interest bipartite graph to gain more insights with respect to the types of locations.",
+            "Tools: Python"
+        ],
+        "startDate":"June 2020",
+        "endDate":"August 2020"
+    },
+    {
+        "jobTitle":"Software Developer",
+        "jobPlace":"Hexagon Capability Center India",
+        "jobDescription":[
+            "Developed Web application ‘Smart Materials’ which is a solution for total materials and subcontract management for plants and projects. It helps lower project costs, compress schedules and improve risk management.",
+            "Analyzed user requirements, developed technical solutions and presented them to clients.",
+            "Improved user experience by developing faster and more intuitive web pages.",
+            "Tools: PL/SQL, JavaScript, Oracle APEX, Azure Devops.",
+            "Recognition: Received awards in Quarters 1 and 4 of 2018 for working on challenging problems, being a great team player and reducing the team trouble ticket count."
+        ],
+        "startDate":"August 2017",
+        "endDate":"July 2019"
+    }
+]
