@@ -1,0 +1,9 @@
+<div class="content">
+    <div *ngFor="let projectDetails of projects" style="float:left" class="inner">
+        <h2>{{projectDetails.projectName}}</h2>
+        <h4>{{projectDetails.startDate}}-{{projectDetails.endDate}}</h4>
+        <ul>
+            <li *ngFor="let projectPoint of projectDetails.projectDescription">{{ projectPoint }}</li>
+        </ul>
+    </div>
+</div>

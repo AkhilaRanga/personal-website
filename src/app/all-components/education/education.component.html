@@ -1,0 +1,10 @@
+<div class="content">
+    <div *ngFor="let educationDetails of educations" class="inner">
+        <h2>{{educationDetails.universityName}}, {{educationDetails.universityPlace}}</h2>
+        <p>{{educationDetails.degree}}, {{educationDetails.startDate}}-{{educationDetails.endDate}}</p>
+        <ul>
+            <li>GPA: {{ educationDetails.gpa }}</li>
+            <li>Coursework: {{ educationDetails.coursework }}</li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+<div class="content">
+    <div *ngFor="let experienceDetails of experiences" style="float:left">
+        <h2>{{experienceDetails.jobPlace}}, {{experienceDetails.jobTitle}}</h2>
+        <h4>{{experienceDetails.startDate}}-{{experienceDetails.endDate}}</h4>
+        <ul>
+            <li *ngFor="let descriptionPoint of experienceDetails.jobDescription">{{ descriptionPoint }}</li>
+        </ul>
+    </div>
+</div>

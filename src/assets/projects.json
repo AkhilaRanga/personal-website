@@ -1,0 +1,46 @@
+[
+    {
+        "projectName":"Personal Projects",
+        "projectDescription":[
+            "Created my Personal Website using Angular.",
+            "Started building a quiz-taking full-stack web application using Angular for frontend and Django for backend."
+        ],
+        "startDate":"August 2020",
+        "endDate":"Present"
+    },
+    {
+        "projectName":"Mood Based Music Retrieval System",
+        "projectDescription":[
+            "Built a Music Retrieval System that enhances users music search experience by retrieving songs based on mood based queries which is an improvement upon the music retrieval systems that act like databases. The mood of the music is captured through critic reviews from the site Pitchfork and the song lyrics.",
+            "This Music Retrieval System shows promising results by achieving a Precision@5 of 0.67 and 80% of the time the top returned song is relevant to the mood."
+        ],
+        "startDate":"March 2020",
+        "endDate":"May 2020"
+    },
+    {
+        "projectName":"Dense Image Captioning using CenterNet",
+        "projectDescription":[
+            "Developed a Dense Caption Generating model that takes advantage of the Object detection model CenterNet to capture the diverse elements of a scene and then generates captions for the various objects in the scene rather than just one caption for the entire image. The model was trained on Visual Genome Dataset."
+        ],
+        "startDate":"March 2020",
+        "endDate":"May 2020"
+    },
+    {
+        "projectName":"Vehicle loan default detections",
+        "projectDescription":[
+            "Developed a Machine Learning Model that predicts the clients capable of Vehicle loan repayment with a precision of 0.942 on an imbalanced dataset using Classification Algorithms, Neural Networks and SMOTE technique."
+        ],
+        "startDate":"December 2020",
+        "endDate":"December 2020"
+    },
+    {
+        "projectName":"Design and Implementation of GPU based Chain Matrix Multiplication",
+        "projectDescription":[
+            "Implemented Serial and Parallel Chain Matrix Multiplication on CUDA computing platform and compared their time complexities.",
+            "Achieved maximum speed up of 96.12% by multiplying matrices in optimal order using data parallelism, shared memory and tiled approach.",
+            "Received Best Student Project from AMD Research Development Centre India."
+        ],
+        "startDate":"December 2016",
+        "endDate":"April 2017"
+    }
+]

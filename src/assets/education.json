@@ -1,0 +1,20 @@
+[
+    {
+        "universityName":"University of Virginia",
+        "universityPlace":"Charlottesville, VA",
+        "degree": "Master of Science in Computer Science",
+        "gpa": "4.0",
+        "coursework": "Design and Analysis of Algorithms, Information Retrieval, Operating Systems, Machine Learning, Data Mining, Deep Learning for Visual Recognition, Software Analysis and Algorithms.",
+        "startDate":"August 2019",
+        "endDate":"December 2020"
+    },
+    {
+        "universityName":"University College of Engineering, Osmania University",
+        "universityPlace":"Hyderabad, India",
+        "degree": "Bachelor of Engineering in Computer Science and Engineering",
+        "gpa": "8.51/10",
+        "coursework": "Object Oriented Programming using Java, Data Structures.",
+        "startDate":"September 2013",
+        "endDate":"May 2017"
+    }
+]

@@ -1,0 +1,5 @@
+<div>
+    <img src="assets/displaypicture.png" alt="DisplayPicture">
+    <h1>{{ name }}</h1>
+    <a *ngFor="let element of sidebar_elements | keyvalue" [routerLink]="element.value" routerLinkActive="router-link-active">{{ element.key }}   </a>
+</div>

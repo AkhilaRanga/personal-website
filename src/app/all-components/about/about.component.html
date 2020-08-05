@@ -1,0 +1,5 @@
+<div *ngIf="about">
+    <h2> Hello, I'm {{ about.name }}! </h2>
+    <p *ngFor="let aboutPoint of about.description">{{ aboutPoint }}</p>
+    <p> Contact: {{ about.emailId }} | <a href="{{ about.linkedIn }}">{{ about.linkedIn }}</a></p>
+</div>
