@@ -22,3 +22,10 @@ div h4 {
 div li {
     text-align: justify;
 }
+@media only screen and (max-width : 48em) {
+    .content {
+        padding-top: 5%;
+        float: none;
+        width: auto;
+    }
+}

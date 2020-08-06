@@ -16,3 +16,10 @@ p {
     text-align: justify;
     padding-top: 1%;
 }
+@media only screen and (max-width : 48em) {
+    div {
+        padding-top: 5%;
+        float: none;
+        width: auto;
+    }
+}

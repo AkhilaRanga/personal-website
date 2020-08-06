@@ -17,3 +17,10 @@ div h2 {
 .inner {
     padding-bottom: 2%;
 }
+@media only screen and (max-width : 48em) {
+    .content {
+        padding-top: 5%;
+        float: none;
+        width: auto;
+    }
+}
